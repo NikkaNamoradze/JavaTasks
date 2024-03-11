@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Task10 {
     public static void main(String[] args) {
         final double distanceKm = 14.0;

@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Task3 {
     public static void main(String[] args) {
         System.out.print("    J    A   V     V  A\n");

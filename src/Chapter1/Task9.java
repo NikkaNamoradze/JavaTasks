@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Task9 {
     public static void main(String[] args) {
         final double width = 4.5;

@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Task12 {
     public static void main(String[] args) {
         final double MILES_TO_KILOMETERS = 1.6;
